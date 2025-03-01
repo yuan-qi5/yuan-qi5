@@ -1,16 +1,21 @@
-## Hi there 👋
+# About me
 
-<!--
-**yuan-qi5/yuan-qi5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**yuan-qi5/yuan-qi5**   Welcome to visit my homepage 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+brief introduction 
+
+- 🔭 I’m currently studying in Nankai University 
+- 🌱 I’m currently learning machine learning and deep learning
+- 📫 How to reach me: 1014944354@qq.com
+
+about my repository 
+
+  I'll record my study notes and personal understanding in the fields that i'm interested in, 
+  hoping it can be helpful to you, If you have any questions about this, feel free to reach out to me.
+
+my interesting are as following:
+
+ - cluster
+ - single-cell foundational model
+  
