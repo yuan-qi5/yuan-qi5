@@ -16,6 +16,8 @@ about my repository
 
 my interesting are as following:
 
- - mllm
- - single-cell foundational model
-  
+ - [mllm][1]
+ - [single-cell foundational model][2]
+
+[1]:https://github.com/yuan-qi5/mllm
+[2]:https://github.com/yuan-qi5/scFM
