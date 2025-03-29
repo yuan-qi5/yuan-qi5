@@ -6,7 +6,7 @@
 brief introduction 
 
 - 🔭 I’m currently studying in Nankai University 
-- 🌱 I’m currently learning machine learning and deep learning
+- 🌱 I’m currently learning math and deep learning
 - 📫 How to reach me: 1014944354@qq.com
 
 about my repository 
@@ -16,6 +16,6 @@ about my repository
 
 my interesting are as following:
 
- - cluster
+ - mllm
  - single-cell foundational model
   
