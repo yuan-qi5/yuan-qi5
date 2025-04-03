@@ -14,10 +14,12 @@ about my repository
   I'll record my study notes and personal understanding in the fields that i'm interested in, 
   hoping it can be helpful to you, If you have any questions about this, feel free to reach out to me.
 
-my interesting are as following:
+my interests are as following:
 
  - [mllm][1]
+ - [VLA][3]
  - [single-cell foundational model][2]
 
 [1]:https://github.com/yuan-qi5/mllm
 [2]:https://github.com/yuan-qi5/scFM
+[3]:https://github.com/yuan-qi5/VLA 
